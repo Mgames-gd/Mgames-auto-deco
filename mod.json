@@ -1,17 +1,11 @@
-
 {
-  "geode": "v5.11.2",
-  "gd": {
-    "android": "2.2081"
-  },
-  "version": "v0.1.0",
+  "geode": "5.11.2",
+  "gd": { "android": "2.2081" },
+  "version": "v0.1.1",
   "id": "mgames.autodeco",
   "name": "Mgames Auto Deco",
   "developer": "Mgames",
-  "description": "Free Geometry Dash auto decoration mod",
-  "tags": [
-    "editor",
-    "utility"
-  ],
+  "description": "Free on-device auto decoration for the Geometry Dash editor: 8 styles, preview, safe gameplay, Group ID sync.",
+  "tags": ["editor", "utility"],
   "settings": {}
 }
